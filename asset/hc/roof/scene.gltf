@@ -1,0 +1,351 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11127,
+      "max": [
+        0.2151118665933609,
+        0.09920751303434372,
+        0.013597488403320313
+      ],
+      "min": [
+        -0.2151118665933609,
+        -0.09920752048492432,
+        -0.013597468845546246
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 133524,
+      "componentType": 5126,
+      "count": 11127,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11127,
+      "max": [
+        0.9822487831115723,
+        0.9955775141716003
+      ],
+      "min": [
+        0.0023304633796215057,
+        0.1644272655248642
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 89016,
+      "componentType": 5126,
+      "count": 11127,
+      "max": [
+        0.9981014728546143,
+        0.9980766177177429
+      ],
+      "min": [
+        0.00390625,
+        0.00390625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 21924,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 267048,
+      "componentType": 5126,
+      "count": 62,
+      "max": [
+        0.18687528371810913,
+        0.09684659540653229,
+        0.011616706848144531
+      ],
+      "min": [
+        -0.18687528371810913,
+        -0.09683384001255035,
+        0.009809836745262146
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 267792,
+      "componentType": 5126,
+      "count": 62,
+      "max": [
+        2.788441406664788e-07,
+        4.169933163211681e-07,
+        -1.0
+      ],
+      "min": [
+        -5.912262395213475e-07,
+        -2.0318409497122047e-06,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 178032,
+      "componentType": 5126,
+      "count": 62,
+      "max": [
+        0.9301590919494629,
+        0.913115918636322
+      ],
+      "min": [
+        0.0025347284972667694,
+        0.19436751306056976
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 178528,
+      "componentType": 5126,
+      "count": 62,
+      "max": [
+        0.9880307912826538,
+        0.8262942433357239
+      ],
+      "min": [
+        0.014529838226735592,
+        0.1727423220872879
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 87696,
+      "componentType": 5125,
+      "count": 120,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "laffery (https://sketchfab.com/laffery)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/roof-4e6d426dd7da40818a313e0d05e4d2ec",
+      "title": "roof"
+    },
+    "generator": "Sketchfab-12.97.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 88176,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 179024,
+      "byteOffset": 88176,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 268536,
+      "byteOffset": 267200,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 535736,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/buliding_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "buliding",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.915094,
+          0.915094,
+          0.915094,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        -1.0000004768371582,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.000000238418579,
+        0.0,
+        0.0,
+        -1.000000238418579,
+        0.0,
+        0.0,
+        0.007782374508678913,
+        0.1957823485136032,
+        0.0,
+        1.0
+      ],
+      "name": "roof_top_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9729,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
