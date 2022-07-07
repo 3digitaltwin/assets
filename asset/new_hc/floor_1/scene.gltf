@@ -3403,10 +3403,10 @@
     "extras": {
       "author": "hy123 (https://sketchfab.com/hy123)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/675524fb250b4e638c5204591713cc79",
-      "title": "一楼"
+      "source": "https://sketchfab.com/3d-models/hc-1floor-e718c9bfe98b48f19246fbadbc0afa59",
+      "title": "hc_1floor"
     },
-    "generator": "Sketchfab-13.59.0",
+    "generator": "Sketchfab-13.63.0",
     "version": "2.0"
   },
   "bufferViews": [
@@ -5516,7 +5516,7 @@
         655.5594482421875,
         1.0
       ],
-      "name": "������������_28"
+      "name": "hc_1floor_outside_28"
     },
     {
       "mesh": 25,
@@ -5552,7 +5552,7 @@
         659.2427978515625,
         1.0
       ],
-      "name": "������������_29"
+      "name": "hc_1floor_desks_29"
     },
     {
       "children": [
@@ -5828,7 +5828,7 @@
         657.0567016601563,
         1.0
       ],
-      "name": "������������_39"
+      "name": "hc_1floor_glasses_39"
     },
     {
       "mesh": 35,
