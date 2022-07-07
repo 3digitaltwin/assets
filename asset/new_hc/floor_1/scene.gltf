@@ -3403,7 +3403,7 @@
     "extras": {
       "author": "hy123 (https://sketchfab.com/hy123)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-1floor-e718c9bfe98b48f19246fbadbc0afa59",
+      "source": "https://sketchfab.com/3d-models/hc-1floor-c081ab3915dd458d9ba149ff742f6611",
       "title": "hc_1floor"
     },
     "generator": "Sketchfab-13.63.0",
@@ -3599,10 +3599,10 @@
       "uri": "textures/M_hc_1floor_room026_ok_emissive.jpeg"
     },
     {
-      "uri": "textures/M__ok_baseColor.jpeg"
+      "uri": "textures/M_hc_1floor_outside_ok_baseColor.jpeg"
     },
     {
-      "uri": "textures/M__ok_emissive.jpeg"
+      "uri": "textures/M_hc_1floor_outside_ok_emissive.jpeg"
     }
   ],
   "materials": [
@@ -4043,7 +4043,7 @@
       "emissiveTexture": {
         "index": 51
       },
-      "name": "M__ok",
+      "name": "M_hc_1floor_outside_ok",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 50
@@ -4065,7 +4065,7 @@
     },
     {
       "alphaMode": "BLEND",
-      "name": "material",
+      "name": "glass_window",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
           0.542453,
