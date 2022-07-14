@@ -1,6 +1,6 @@
 Model Information:
-* title:	一楼final
-* source:	https://sketchfab.com/3d-models/final-c828f979ae544c12a19098e668bcada8
+* title:	一楼缩小十倍版本
+* source:	https://sketchfab.com/3d-models/20435a0476da45508c61be64d0bc2f34
 * author:	hy123 (https://sketchfab.com/hy123)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "一楼final" (https://sketchfab.com/3d-models/final-c828f979ae544c12a19098e668bcada8) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "一楼缩小十倍版本" (https://sketchfab.com/3d-models/20435a0476da45508c61be64d0bc2f34) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

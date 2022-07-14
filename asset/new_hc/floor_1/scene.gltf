@@ -3403,8 +3403,8 @@
     "extras": {
       "author": "hy123 (https://sketchfab.com/hy123)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/final-c828f979ae544c12a19098e668bcada8",
-      "title": "一楼final"
+      "source": "https://sketchfab.com/3d-models/20435a0476da45508c61be64d0bc2f34",
+      "title": "一楼缩小十倍版本"
     },
     "generator": "Sketchfab-13.68.0",
     "version": "2.0"
@@ -4791,6 +4791,24 @@
         54,
         56,
         75
+      ],
+      "matrix": [
+        0.10000000149011612,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.10000000149011612,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.10000000149011612,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
       ],
       "name": "yy_0"
     },
