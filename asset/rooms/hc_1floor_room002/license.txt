@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_1floor_room002
+* source:	https://sketchfab.com/3d-models/hc-1floor-room002-1002e5d226a54c06ab414aa2976862c8
+* author:	hy123 (https://sketchfab.com/hy123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_1floor_room002" (https://sketchfab.com/3d-models/hc-1floor-room002-1002e5d226a54c06ab414aa2976862c8) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
