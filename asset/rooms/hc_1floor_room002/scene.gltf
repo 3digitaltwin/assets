@@ -88,10 +88,10 @@
     "extras": {
       "author": "hy123 (https://sketchfab.com/hy123)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-1floor-room002-1002e5d226a54c06ab414aa2976862c8",
-      "title": "hc_1floor_room002"
+      "source": "https://sketchfab.com/3d-models/hc-1floor-002-6526bab3f3754fe19a5a30aba8158f9d",
+      "title": "hc_1floor_002"
     },
-    "generator": "Sketchfab-13.68.0",
+    "generator": "Sketchfab-13.69.0",
     "version": "2.0"
   },
   "bufferViews": [
@@ -121,7 +121,7 @@
   "buffers": [
     {
       "byteLength": 1114884,
-      "uri": "scene.bin"
+      "uri": ".bin"
     }
   ],
   "images": [
@@ -231,16 +231,16 @@
         4
       ],
       "matrix": [
-        0.10000000149011612,
+        0.010000000707805157,
         0.0,
         0.0,
         0.0,
         0.0,
         0.0,
-        0.10000003129243851,
+        0.010000002570450306,
         0.0,
         0.0,
-        -0.10000003129243851,
+        -0.010000002570450306,
         0.0,
         0.0,
         0.802869975566864,
