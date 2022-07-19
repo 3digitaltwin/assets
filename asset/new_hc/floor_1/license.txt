@@ -1,6 +1,6 @@
 Model Information:
-* title:	hc_1floor
-* source:	https://sketchfab.com/3d-models/hc-1floor-8838641fe60341368d3b05ef51824ba6
+* title:	hc_1floor_z=20
+* source:	https://sketchfab.com/3d-models/hc-1floor-z20-628436bb88004abd95a83bdff98d6d28
 * author:	hy123 (https://sketchfab.com/hy123)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "hc_1floor" (https://sketchfab.com/3d-models/hc-1floor-8838641fe60341368d3b05ef51824ba6) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "hc_1floor_z=20" (https://sketchfab.com/3d-models/hc-1floor-z20-628436bb88004abd95a83bdff98d6d28) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
