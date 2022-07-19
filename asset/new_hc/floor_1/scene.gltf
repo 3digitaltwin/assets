@@ -3403,10 +3403,10 @@
     "extras": {
       "author": "hy123 (https://sketchfab.com/hy123)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-1floor-a72c251c787343a8b3d76585c0de7b35",
+      "source": "https://sketchfab.com/3d-models/hc-1floor-8838641fe60341368d3b05ef51824ba6",
       "title": "hc_1floor"
     },
-    "generator": "Sketchfab-13.68.0",
+    "generator": "Sketchfab-13.70.0",
     "version": "2.0"
   },
   "bufferViews": [
@@ -4806,10 +4806,10 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        -20.0,
         1.0
       ],
-      "name": "yy_0"
+      "name": "hc_1floor_0"
     },
     {
       "children": [
