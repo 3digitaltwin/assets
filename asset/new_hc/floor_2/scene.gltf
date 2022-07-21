@@ -3181,8 +3181,8 @@
     "extras": {
       "author": "hy123 (https://sketchfab.com/hy123)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-2floor-25136cbc71364892a2d23e4e9bf146f8",
-      "title": "HC_2floor"
+      "source": "https://sketchfab.com/3d-models/2floor-eb979979d5fa48a6a137037b2fd7fdb5",
+      "title": "2floor"
     },
     "generator": "Sketchfab-13.73.0",
     "version": "2.0"
@@ -4918,21 +4918,21 @@
         73
       ],
       "matrix": [
-        0.10000000149011612,
         0.0,
         0.0,
-        0.0,
-        0.0,
-        0.10000000149011612,
-        0.0,
-        0.0,
+        0.10000003129243851,
         0.0,
         0.0,
         0.10000000149011612,
         0.0,
         0.0,
+        -0.10000003129243851,
         0.0,
         0.0,
+        0.0,
+        -0.06599999964237213,
+        0.0,
+        -0.8500000238418579,
         1.0
       ],
       "name": "hc_2floor_0"

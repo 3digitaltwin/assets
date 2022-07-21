@@ -1,6 +1,6 @@
 Model Information:
-* title:	HC_2floor
-* source:	https://sketchfab.com/3d-models/hc-2floor-25136cbc71364892a2d23e4e9bf146f8
+* title:	2floor
+* source:	https://sketchfab.com/3d-models/2floor-eb979979d5fa48a6a137037b2fd7fdb5
 * author:	hy123 (https://sketchfab.com/hy123)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "HC_2floor" (https://sketchfab.com/3d-models/hc-2floor-25136cbc71364892a2d23e4e9bf146f8) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "2floor" (https://sketchfab.com/3d-models/2floor-eb979979d5fa48a6a137037b2fd7fdb5) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
