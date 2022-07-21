@@ -3,24 +3,24 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 20584,
+      "count": 2409,
       "max": [
-        6.350312232971191,
-        13.84999942779541,
-        4.6000142097473145
+        6.273906230926514,
+        12.379961013793945,
+        4.975015163421631
       ],
       "min": [
-        -6.350312232971191,
-        -13.850077629089355,
-        -4.600014686584473
+        -6.273906230926514,
+        -12.379921913146973,
+        -4.975014686584473
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 247008,
+      "byteOffset": 28908,
       "componentType": 5126,
-      "count": 20584,
+      "count": 2409,
       "max": [
         1.0,
         1.0,
@@ -36,10 +36,10 @@
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 20584,
+      "count": 2409,
       "max": [
         0.9990000128746033,
-        0.9975003004074097
+        0.9988453388214111
       ],
       "min": [
         0.0010000000474974513,
@@ -49,12 +49,12 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 164672,
+      "byteOffset": 19272,
       "componentType": 5126,
-      "count": 20584,
+      "count": 2409,
       "max": [
         0.9990000128746033,
-        0.9975003004074097
+        0.9988453388214111
       ],
       "min": [
         0.0010000000474974513,
@@ -64,23 +64,23 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 329344,
+      "byteOffset": 38544,
       "componentType": 5126,
-      "count": 20584,
+      "count": 2409,
       "max": [
-        147977.703125,
-        68734.703125
+        147086.25,
+        65106.62109375
       ],
       "min": [
-        -1823.046875,
-        -1220.5234375
+        -1789.71875,
+        -1202.9921875
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 31713,
+      "count": 4548,
       "type": "SCALAR"
     }
   ],
@@ -88,8 +88,8 @@
     "extras": {
       "author": "hy123 (https://sketchfab.com/hy123)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-1floor002-870b2ce45ac3499a952e45ba9b8e267c",
-      "title": "hc_1floor——002"
+      "source": "https://sketchfab.com/3d-models/hc-1floor0025-408a27357c3d448c9617e3eeb599e405",
+      "title": "hc_1floor+0025"
     },
     "generator": "Sketchfab-13.73.0",
     "version": "2.0"
@@ -97,22 +97,22 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 126852,
+      "byteLength": 18192,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 494016,
-      "byteOffset": 126852,
+      "byteLength": 57816,
+      "byteOffset": 18192,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 494016,
-      "byteOffset": 620868,
+      "byteLength": 57816,
+      "byteOffset": 76008,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
@@ -120,16 +120,16 @@
   ],
   "buffers": [
     {
-      "byteLength": 1114884,
+      "byteLength": 133824,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/M_hc_1floor_room002_ok_baseColor.jpeg"
+      "uri": "textures/M_hc_1floor_room025_ok_baseColor.jpeg"
     },
     {
-      "uri": "textures/M_hc_1floor_room002_ok_emissive.jpeg"
+      "uri": "textures/M_hc_1floor_room025_ok_emissive.jpeg"
     }
   ],
   "materials": [
@@ -143,7 +143,7 @@
         "index": 1,
         "texCoord": 1
       },
-      "name": "M_hc_1floor_room002_ok",
+      "name": "M_hc_1floor_room025_ok",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
@@ -248,7 +248,7 @@
         0.0,
         1.0
       ],
-      "name": "hc_1floor_room002_0"
+      "name": "hc_1floor_room025_0"
     },
     {
       "mesh": 0,
