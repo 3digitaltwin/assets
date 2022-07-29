@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_all——ding
+* source:	https://sketchfab.com/3d-models/hc-allding-724177f386d84b71a454e09e1b89d30d
+* author:	hy123 (https://sketchfab.com/hy123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_all——ding" (https://sketchfab.com/3d-models/hc-allding-724177f386d84b71a454e09e1b89d30d) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
