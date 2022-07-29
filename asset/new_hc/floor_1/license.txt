@@ -1,11 +1,11 @@
 Model Information:
-* title:	hc_all_1
-* source:	https://sketchfab.com/3d-models/hc-all-1-e647dfbae705455a8696b9e3a2982697
-* author:	hy123 (https://sketchfab.com/hy123)
+* title:	hc_1florr
+* source:	https://sketchfab.com/3d-models/hc-1florr-1af6ce21c27e447e9feada57ec96a843
+* author:	ningss (https://sketchfab.com/ningss)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "hc_all_1" (https://sketchfab.com/3d-models/hc-all-1-e647dfbae705455a8696b9e3a2982697) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "hc_1florr" (https://sketchfab.com/3d-models/hc-1florr-1af6ce21c27e447e9feada57ec96a843) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
