@@ -1,6 +1,6 @@
 Model Information:
-* title:	hc_2floor
-* source:	https://sketchfab.com/3d-models/hc-2floor-d216c95fe7e541b99a7046de669796e7
+* title:	二楼
+* source:	https://sketchfab.com/3d-models/caa3e1eda04f4f0f8a08280dece719c4
 * author:	ningss (https://sketchfab.com/ningss)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "hc_2floor" (https://sketchfab.com/3d-models/hc-2floor-d216c95fe7e541b99a7046de669796e7) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "二楼" (https://sketchfab.com/3d-models/caa3e1eda04f4f0f8a08280dece719c4) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

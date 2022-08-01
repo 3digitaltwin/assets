@@ -71,10 +71,10 @@
   ],
   "asset": {
     "extras": {
-      "author": "hy123 (https://sketchfab.com/hy123)",
+      "author": "ningss (https://sketchfab.com/ningss)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-allding-724177f386d84b71a454e09e1b89d30d",
-      "title": "hc_all——ding"
+      "source": "https://sketchfab.com/3d-models/3fd601b7bf9145d3be99e6ed19479b31",
+      "title": "屋顶"
     },
     "generator": "Sketchfab-13.74.0",
     "version": "2.0"
@@ -207,15 +207,15 @@
         0.0,
         0.0,
         0.0,
-        0.10000003129243851,
+        0.1000000610947609,
         0.0,
         -0.0,
-        -0.10000003129243851,
+        -0.1000000610947609,
         0.0,
         0.0,
         0.0,
         0.0,
-        -55.599998474121094,
+        0.0,
         1.0
       ],
       "name": "hc_2floor_ding_0"
