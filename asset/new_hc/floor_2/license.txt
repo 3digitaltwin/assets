@@ -1,6 +1,6 @@
 Model Information:
-* title:	hc_2FLOOR 512
-* source:	https://sketchfab.com/3d-models/hc-2floor-512-c6db8f1d1a6f489abe6bd35918828b1f
+* title:	hc_2_1024
+* source:	https://sketchfab.com/3d-models/hc-2-1024-fffdfa6d5dae42289e13c221e41ff834
 * author:	ningss (https://sketchfab.com/ningss)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "hc_2FLOOR 512" (https://sketchfab.com/3d-models/hc-2floor-512-c6db8f1d1a6f489abe6bd35918828b1f) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "hc_2_1024" (https://sketchfab.com/3d-models/hc-2-1024-fffdfa6d5dae42289e13c221e41ff834) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

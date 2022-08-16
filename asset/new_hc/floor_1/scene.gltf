@@ -2820,8 +2820,8 @@
     "extras": {
       "author": "ningss (https://sketchfab.com/ningss)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-1floor-512-71aa8e9d036f4cd992d619f07f6a05a9",
-      "title": "hc_1FLOOR 512"
+      "source": "https://sketchfab.com/3d-models/hc-1-1024-1f066fb4cbb34f87b2fb855167eb8227",
+      "title": "hc_1_1024"
     },
     "generator": "Sketchfab-13.74.0",
     "version": "2.0"
@@ -4231,16 +4231,16 @@
         58
       ],
       "matrix": [
+        0.0,
+        0.0,
         0.10000000149011612,
-        -0.0,
+        0.0,
+        -0.10000000149011612,
         0.0,
         0.0,
         0.0,
         0.0,
-        0.10000003129243851,
-        0.0,
-        -0.0,
-        -0.10000003129243851,
+        -0.10000000149011612,
         0.0,
         0.0,
         0.0,
@@ -4248,7 +4248,7 @@
         0.0,
         1.0
       ],
-      "name": "hc_1floor _0"
+      "name": "hc_1floor_0"
     },
     {
       "children": [

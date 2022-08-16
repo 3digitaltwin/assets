@@ -1,6 +1,6 @@
 Model Information:
-* title:	hc_1FLOOR 512
-* source:	https://sketchfab.com/3d-models/hc-1floor-512-71aa8e9d036f4cd992d619f07f6a05a9
+* title:	hc_1_1024
+* source:	https://sketchfab.com/3d-models/hc-1-1024-1f066fb4cbb34f87b2fb855167eb8227
 * author:	ningss (https://sketchfab.com/ningss)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "hc_1FLOOR 512" (https://sketchfab.com/3d-models/hc-1floor-512-71aa8e9d036f4cd992d619f07f6a05a9) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "hc_1_1024" (https://sketchfab.com/3d-models/hc-1-1024-1f066fb4cbb34f87b2fb855167eb8227) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

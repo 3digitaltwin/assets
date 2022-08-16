@@ -73,8 +73,8 @@
     "extras": {
       "author": "ningss (https://sketchfab.com/ningss)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/3fd601b7bf9145d3be99e6ed19479b31",
-      "title": "屋顶"
+      "source": "https://sketchfab.com/3d-models/hc-ding-1024-91422868c56d4760a8f53ec5df117af6",
+      "title": "hc_ding_1024"
     },
     "generator": "Sketchfab-13.74.0",
     "version": "2.0"
@@ -109,6 +109,11 @@
       "uri": "scene.bin"
     }
   ],
+  "images": [
+    {
+      "uri": "textures/hc_2floor_ding_DiffuseMap_baseColor.jpeg"
+    }
+  ],
   "materials": [
     {
       "name": "hc_2floor_ding_DiffuseMap",
@@ -119,6 +124,9 @@
           0.588,
           1.0
         ],
+        "baseColorTexture": {
+          "index": 0
+        },
         "metallicFactor": 0.0
       }
     }
@@ -201,16 +209,16 @@
         4
       ],
       "matrix": [
+        0.0,
+        0.0,
         0.10000000149011612,
-        -0.0,
+        0.0,
+        -0.10000000149011612,
         0.0,
         0.0,
         0.0,
         0.0,
-        0.1000000610947609,
-        0.0,
-        -0.0,
-        -0.1000000610947609,
+        -0.10000000149011612,
         0.0,
         0.0,
         0.0,
@@ -225,6 +233,14 @@
       "name": "Object_4"
     }
   ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9729,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
   "scene": 0,
   "scenes": [
     {
@@ -232,6 +248,12 @@
       "nodes": [
         0
       ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
     }
   ]
 }

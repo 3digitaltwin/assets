@@ -2847,8 +2847,8 @@
     "extras": {
       "author": "ningss (https://sketchfab.com/ningss)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-2floor-512-c6db8f1d1a6f489abe6bd35918828b1f",
-      "title": "hc_2FLOOR 512"
+      "source": "https://sketchfab.com/3d-models/hc-2-1024-fffdfa6d5dae42289e13c221e41ff834",
+      "title": "hc_2_1024"
     },
     "generator": "Sketchfab-13.74.0",
     "version": "2.0"
@@ -3079,15 +3079,11 @@
   ],
   "materials": [
     {
-      "name": "2_-_Default",
+      "doubleSided": true,
+      "name": "material_0",
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.79059,
-          0.79059,
-          0.79059,
-          1.0
-        ],
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
       }
     },
     {
@@ -4534,16 +4530,16 @@
         72
       ],
       "matrix": [
+        0.0,
+        0.0,
         0.10000000149011612,
-        -0.0,
+        0.0,
+        -0.10000000149011612,
         0.0,
         0.0,
         0.0,
         0.0,
-        0.10000003129243851,
-        0.0,
-        -0.0,
-        -0.10000003129243851,
+        -0.10000000149011612,
         0.0,
         0.0,
         0.0,
@@ -5365,7 +5361,7 @@
         -7.299538612365723,
         1.0
       ],
-      "name": "hc_2floorglsaa_35"
+      "name": "hc_2floorglass_35"
     },
     {
       "mesh": 34,
