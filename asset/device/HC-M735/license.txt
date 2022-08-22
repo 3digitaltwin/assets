@@ -1,0 +1,11 @@
+Model Information:
+* title:	电火花M735
+* source:	https://sketchfab.com/3d-models/m735-1d1ce3a731fd44c6b40e70f2e511f9a3
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "电火花M735" (https://sketchfab.com/3d-models/m735-1d1ce3a731fd44c6b40e70f2e511f9a3) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
