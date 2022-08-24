@@ -3,24 +3,24 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 40,
+      "count": 110,
       "max": [
-        19.252904891967773,
-        30.957782745361328,
-        -10.288918495178223
+        18.04769515991211,
+        30.000078201293945,
+        6.103515488575795e-07
       ],
       "min": [
-        -16.747602462768555,
-        -29.04241180419922,
-        -10.288918495178223
+        -18.04781150817871,
+        -30.00015640258789,
+        6.103515488575795e-07
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 480,
+      "byteOffset": 1320,
       "componentType": 5126,
-      "count": 40,
+      "count": 110,
       "max": [
         0.0,
         0.0,
@@ -36,28 +36,28 @@
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 40,
+      "count": 110,
       "max": [
         0.9979999661445618,
-        0.5996060371398926
+        0.6011830568313599
       ],
       "min": [
-        0.0020006485283374786,
+        0.0020000000949949026,
         0.0020000000949949026
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 1,
-      "byteOffset": 320,
+      "byteOffset": 880,
       "componentType": 5126,
-      "count": 40,
+      "count": 110,
       "max": [
         0.9979999661445618,
-        0.5996060371398926
+        0.6011830568313599
       ],
       "min": [
-        0.0020006485283374786,
+        0.0020000000949949026,
         0.0020000000949949026
       ],
       "type": "VEC2"
@@ -65,7 +65,7 @@
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 93,
+      "count": 360,
       "type": "SCALAR"
     }
   ],
@@ -73,31 +73,31 @@
     "extras": {
       "author": "ningss (https://sketchfab.com/ningss)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hc-ding-1024-91422868c56d4760a8f53ec5df117af6",
-      "title": "hc_ding_1024"
+      "source": "https://sketchfab.com/3d-models/hc-roof-a980608d1eef49e492a4d2787e2d4d7b",
+      "title": "hc_roof"
     },
-    "generator": "Sketchfab-13.74.0",
+    "generator": "Sketchfab-13.81.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 372,
+      "byteLength": 1440,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 640,
-      "byteOffset": 372,
+      "byteLength": 1760,
+      "byteOffset": 1440,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 960,
-      "byteOffset": 1012,
+      "byteLength": 2640,
+      "byteOffset": 3200,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
@@ -105,25 +105,19 @@
   ],
   "buffers": [
     {
-      "byteLength": 1972,
+      "byteLength": 5840,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/hc_2floor_ding_DiffuseMap_baseColor.jpeg"
+      "uri": "textures/M_hc_2floor_ding_ok_baseColor.jpeg"
     }
   ],
   "materials": [
     {
-      "name": "hc_2floor_ding_DiffuseMap",
+      "name": "M_hc_2floor_ding_ok",
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.588,
-          0.588,
-          0.588,
-          1.0
-        ],
         "baseColorTexture": {
           "index": 0
         },
@@ -221,12 +215,12 @@
         -0.10000000149011612,
         0.0,
         0.0,
-        0.0,
-        0.0,
-        0.0,
+        -0.07100000232458115,
+        1.0,
+        0.07999999821186066,
         1.0
       ],
-      "name": "hc_2floor_ding_0"
+      "name": "HC_2floor_ding_0"
     },
     {
       "mesh": 0,

@@ -1,6 +1,6 @@
 Model Information:
-* title:	hc_ding_1024
-* source:	https://sketchfab.com/3d-models/hc-ding-1024-91422868c56d4760a8f53ec5df117af6
+* title:	hc_roof
+* source:	https://sketchfab.com/3d-models/hc-roof-a980608d1eef49e492a4d2787e2d4d7b
 * author:	ningss (https://sketchfab.com/ningss)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "hc_ding_1024" (https://sketchfab.com/3d-models/hc-ding-1024-91422868c56d4760a8f53ec5df117af6) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "hc_roof" (https://sketchfab.com/3d-models/hc-roof-a980608d1eef49e492a4d2787e2d4d7b) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
