@@ -491,10 +491,10 @@
     "extras": {
       "author": "ningss (https://sketchfab.com/ningss)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/1-hc-d703-73d6145c98a84253b8be38391ea6c9ec",
-      "title": "1-hc-电火花-D703"
+      "source": "https://sketchfab.com/3d-models/e0c7ddea147e4843a3f69d78362be91d",
+      "title": "电火花"
     },
-    "generator": "Sketchfab-13.74.0",
+    "generator": "Sketchfab-13.79.0",
     "version": "2.0"
   },
   "bufferViews": [
@@ -793,6 +793,24 @@
         13,
         15,
         17
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -15.689000129699707,
+        0.2329999953508377,
+        -23.55500030517578,
+        1.0
       ],
       "name": "1-HC-���������-D703_0"
     },
