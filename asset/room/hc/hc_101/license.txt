@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_101
+* source:	https://sketchfab.com/3d-models/hc-101-fcd1b72995f8483db77da16a195d6025
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_101" (https://sketchfab.com/3d-models/hc-101-fcd1b72995f8483db77da16a195d6025) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
