@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_213
+* source:	https://sketchfab.com/3d-models/hc-213-07ec0764e6ff4ae48dba0b5107896c9f
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_213" (https://sketchfab.com/3d-models/hc-213-07ec0764e6ff4ae48dba0b5107896c9f) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

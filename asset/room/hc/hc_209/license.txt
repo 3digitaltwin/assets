@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_209
+* source:	https://sketchfab.com/3d-models/hc-209-f28160f68a68466594684697af71d85a
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_209" (https://sketchfab.com/3d-models/hc-209-f28160f68a68466594684697af71d85a) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
