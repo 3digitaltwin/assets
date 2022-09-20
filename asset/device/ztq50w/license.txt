@@ -1,0 +1,11 @@
+Model Information:
+* title:	ZTQ50W
+* source:	https://sketchfab.com/3d-models/ztq50w-58dc02c5bc6a4637be2ac28afd64392e
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ZTQ50W" (https://sketchfab.com/3d-models/ztq50w-58dc02c5bc6a4637be2ac28afd64392e) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
