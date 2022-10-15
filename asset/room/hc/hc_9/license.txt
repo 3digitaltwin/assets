@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_9
+* source:	https://sketchfab.com/3d-models/hc-9-5ed1e77537ef42969548758d9388fbab
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_9" (https://sketchfab.com/3d-models/hc-9-5ed1e77537ef42969548758d9388fbab) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
