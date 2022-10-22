@@ -1,0 +1,11 @@
+Model Information:
+* title:	X7050-粗模
+* source:	https://sketchfab.com/3d-models/x7050-0fa1cb52ab7b46f29c817017d57bf001
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "X7050-粗模" (https://sketchfab.com/3d-models/x7050-0fa1cb52ab7b46f29c817017d57bf001) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

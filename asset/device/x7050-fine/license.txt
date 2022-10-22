@@ -1,0 +1,11 @@
+Model Information:
+* title:	X7050精模
+* source:	https://sketchfab.com/3d-models/x7050-6d0793b9dfbe4698be6f0229263f9dc7
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "X7050精模" (https://sketchfab.com/3d-models/x7050-6d0793b9dfbe4698be6f0229263f9dc7) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
