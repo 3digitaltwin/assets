@@ -1,0 +1,11 @@
+Model Information:
+* title:	x7050-fine-adjust
+* source:	https://sketchfab.com/3d-models/x7050-fine-adjust-071281c02a40449ca03cb59aa7ec3cf7
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "x7050-fine-adjust" (https://sketchfab.com/3d-models/x7050-fine-adjust-071281c02a40449ca03cb59aa7ec3cf7) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
