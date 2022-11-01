@@ -1,0 +1,11 @@
+Model Information:
+* title:	guhuaxiang
+* source:	https://sketchfab.com/3d-models/guhuaxiang-4f6d2508f1c842d9ade1e70ed58b0c68
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "guhuaxiang" (https://sketchfab.com/3d-models/guhuaxiang-4f6d2508f1c842d9ade1e70ed58b0c68) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

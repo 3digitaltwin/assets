@@ -1,0 +1,11 @@
+Model Information:
+* title:	2-UP300D桌面机
+* source:	https://sketchfab.com/3d-models/2-up300d-53030bc669ee443cb8c95c421fc1bca3
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2-UP300D桌面机" (https://sketchfab.com/3d-models/2-up300d-53030bc669ee443cb8c95c421fc1bca3) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
