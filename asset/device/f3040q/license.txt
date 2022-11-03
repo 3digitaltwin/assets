@@ -1,0 +1,11 @@
+Model Information:
+* title:	F3040Q
+* source:	https://sketchfab.com/3d-models/f3040q-4097db65ca9e4b9ab0404976a88192cb
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "F3040Q" (https://sketchfab.com/3d-models/f3040q-4097db65ca9e4b9ab0404976a88192cb) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

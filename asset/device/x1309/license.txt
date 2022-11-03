@@ -1,0 +1,11 @@
+Model Information:
+* title:	X1309
+* source:	https://sketchfab.com/3d-models/x1309-bc0874614ace40488d5555630d57beb7
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "X1309" (https://sketchfab.com/3d-models/x1309-bc0874614ace40488d5555630d57beb7) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

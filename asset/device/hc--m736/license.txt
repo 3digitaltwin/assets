@@ -1,0 +1,11 @@
+Model Information:
+* title:	HC-电火花-M736
+* source:	https://sketchfab.com/3d-models/hc-m736-edf67fb11b3242bca355fb74cdf00fa1
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HC-电火花-M736" (https://sketchfab.com/3d-models/hc-m736-edf67fb11b3242bca355fb74cdf00fa1) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
