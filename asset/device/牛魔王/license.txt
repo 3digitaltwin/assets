@@ -1,0 +1,11 @@
+Model Information:
+* title:	牛魔王
+* source:	https://sketchfab.com/3d-models/2456c85955124ab89ce3d969f7792f52
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "牛魔王" (https://sketchfab.com/3d-models/2456c85955124ab89ce3d969f7792f52) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

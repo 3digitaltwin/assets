@@ -1,0 +1,11 @@
+Model Information:
+* title:	喷砂
+* source:	https://sketchfab.com/3d-models/cc1b745eca30417fa29aaf4c8d53ac1c
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "喷砂" (https://sketchfab.com/3d-models/cc1b745eca30417fa29aaf4c8d53ac1c) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
