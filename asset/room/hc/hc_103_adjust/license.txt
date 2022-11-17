@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_103_adjust
+* source:	https://sketchfab.com/3d-models/hc-103-adjust-89b4349d323644b88ca07d43a8dde87a
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_103_adjust" (https://sketchfab.com/3d-models/hc-103-adjust-89b4349d323644b88ca07d43a8dde87a) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
