@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_103_down
+* source:	https://sketchfab.com/3d-models/hc-103-down-22f3f334961a4c04ae4fcc2aa65221ae
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_103_down" (https://sketchfab.com/3d-models/hc-103-down-22f3f334961a4c04ae4fcc2aa65221ae) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
