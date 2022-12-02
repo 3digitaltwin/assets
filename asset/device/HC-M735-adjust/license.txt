@@ -1,0 +1,11 @@
+Model Information:
+* title:	M735-adjust
+* source:	https://sketchfab.com/3d-models/m735-adjust-8087f41be9bd484dbc9a8a37ea04b46a
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "M735-adjust" (https://sketchfab.com/3d-models/m735-adjust-8087f41be9bd484dbc9a8a37ea04b46a) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
