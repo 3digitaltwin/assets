@@ -1,0 +1,11 @@
+Model Information:
+* title:	dmdn800I
+* source:	https://sketchfab.com/3d-models/dmdn800i-b91af2c297aa4d3b84c13ab1daf2125a
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "dmdn800I" (https://sketchfab.com/3d-models/dmdn800i-b91af2c297aa4d3b84c13ab1daf2125a) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
