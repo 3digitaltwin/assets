@@ -1,0 +1,11 @@
+Model Information:
+* title:	2000W
+* source:	https://sketchfab.com/3d-models/2000w-5fda94f1fd134ed4a6c6d94228a9e2f0
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2000W" (https://sketchfab.com/3d-models/2000w-5fda94f1fd134ed4a6c6d94228a9e2f0) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

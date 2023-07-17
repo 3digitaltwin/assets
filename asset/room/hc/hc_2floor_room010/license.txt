@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_2floor_room010
+* source:	https://sketchfab.com/3d-models/hc-2floor-room010-cfbd8695a952446487c4fbb908c8a3da
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_2floor_room010" (https://sketchfab.com/3d-models/hc-2floor-room010-cfbd8695a952446487c4fbb908c8a3da) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

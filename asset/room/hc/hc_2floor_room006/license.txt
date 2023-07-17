@@ -1,0 +1,11 @@
+Model Information:
+* title:	hc_2floor_room006
+* source:	https://sketchfab.com/3d-models/hc-2floor-room006-e9d6d6654f7e41ca8352a4bc5bed1eaa
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hc_2floor_room006" (https://sketchfab.com/3d-models/hc-2floor-room006-e9d6d6654f7e41ca8352a4bc5bed1eaa) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

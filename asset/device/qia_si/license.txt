@@ -1,0 +1,11 @@
+Model Information:
+* title:	Qia_Si
+* source:	https://sketchfab.com/3d-models/qia-si-a602b539480747feb7a5ff626709cb3d
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Qia_Si" (https://sketchfab.com/3d-models/qia-si-a602b539480747feb7a5ff626709cb3d) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

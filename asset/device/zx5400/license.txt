@@ -1,0 +1,11 @@
+Model Information:
+* title:	zx5400
+* source:	https://sketchfab.com/3d-models/zx5400-96fcd3a1f28649b49de1f049b0b8ee3c
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "zx5400" (https://sketchfab.com/3d-models/zx5400-96fcd3a1f28649b49de1f049b0b8ee3c) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	gugongcherchuang
+* source:	https://sketchfab.com/3d-models/gugongcherchuang-0ee50b4fc7784aa9b1d620c36b16bf55
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "gugongcherchuang" (https://sketchfab.com/3d-models/gugongcherchuang-0ee50b4fc7784aa9b1d620c36b16bf55) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

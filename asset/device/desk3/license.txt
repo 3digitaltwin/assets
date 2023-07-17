@@ -1,0 +1,11 @@
+Model Information:
+* title:	Table501734a92c24ef5e367e58c0c16326de
+* source:	https://sketchfab.com/3d-models/table501734a92c24ef5e367e58c0c16326de-d856263a37be4f72acd25951cb883829
+* author:	ningss (https://sketchfab.com/ningss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Table501734a92c24ef5e367e58c0c16326de" (https://sketchfab.com/3d-models/table501734a92c24ef5e367e58c0c16326de-d856263a37be4f72acd25951cb883829) by ningss (https://sketchfab.com/ningss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
