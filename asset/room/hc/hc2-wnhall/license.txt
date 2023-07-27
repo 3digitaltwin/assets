@@ -1,0 +1,11 @@
+Model Information:
+* title:	HC2-WNHall
+* source:	https://sketchfab.com/3d-models/hc2-wnhall-8d6a66ad7f4a4b48856897efe0901168
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HC2-WNHall" (https://sketchfab.com/3d-models/hc2-wnhall-8d6a66ad7f4a4b48856897efe0901168) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	hd5ding(1)
+* source:	https://sketchfab.com/3d-models/hd5ding1-e7ec35c69b1c4d579c9e593eeff090e0
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hd5ding(1)" (https://sketchfab.com/3d-models/hd5ding1-e7ec35c69b1c4d579c9e593eeff090e0) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	HC2-ENHall
+* source:	https://sketchfab.com/3d-models/hc2-enhall-cdab903d20494fc3b27f24e22d5aaeed
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HC2-ENHall" (https://sketchfab.com/3d-models/hc2-enhall-cdab903d20494fc3b27f24e22d5aaeed) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
