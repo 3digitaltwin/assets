@@ -1,0 +1,11 @@
+Model Information:
+* title:	hb_floor1_zhongting
+* source:	https://sketchfab.com/3d-models/hb-floor1-zhongting-53409eea38e8476f8e80694db8b9ba58
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hb_floor1_zhongting" (https://sketchfab.com/3d-models/hb-floor1-zhongting-53409eea38e8476f8e80694db8b9ba58) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
