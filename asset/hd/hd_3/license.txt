@@ -1,0 +1,11 @@
+Model Information:
+* title:	HD_3
+* source:	https://sketchfab.com/3d-models/hd-3-f0de39a555804ed4a714a15ebdbba60b
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HD_3" (https://sketchfab.com/3d-models/hd-3-f0de39a555804ed4a714a15ebdbba60b) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
