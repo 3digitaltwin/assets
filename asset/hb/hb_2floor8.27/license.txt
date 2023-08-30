@@ -1,0 +1,11 @@
+Model Information:
+* title:	hb_2floor8.27
+* source:	https://sketchfab.com/3d-models/hb-2floor827-2436befa20e64d6185906f4d6c74d7ab
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hb_2floor8.27" (https://sketchfab.com/3d-models/hb-2floor827-2436befa20e64d6185906f4d6c74d7ab) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
