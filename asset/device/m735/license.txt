@@ -1,6 +1,6 @@
 Model Information:
-* title:	m735
-* source:	https://sketchfab.com/3d-models/m735-91a43b17cac149358675ebfd4052d4b4
+* title:	M735
+* source:	https://sketchfab.com/3d-models/m735-4b46e34e23244849a9b4bd0b69388f84
 * author:	1159929061 (https://sketchfab.com/1159929061)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "m735" (https://sketchfab.com/3d-models/m735-91a43b17cac149358675ebfd4052d4b4) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "M735" (https://sketchfab.com/3d-models/m735-4b46e34e23244849a9b4bd0b69388f84) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
