@@ -1,0 +1,11 @@
+Model Information:
+* title:	M735hand
+* source:	https://sketchfab.com/3d-models/m735hand-c88b6225418945d5af71b89c189e2c7d
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "M735hand" (https://sketchfab.com/3d-models/m735hand-c88b6225418945d5af71b89c189e2c7d) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
