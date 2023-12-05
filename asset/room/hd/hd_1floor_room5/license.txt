@@ -1,6 +1,6 @@
 Model Information:
 * title:	hd_1floor_room5
-* source:	https://sketchfab.com/3d-models/hd-1floor-room5-39fd86b1eb9947468575f1949922305f
+* source:	https://sketchfab.com/3d-models/hd-1floor-room5-13b1ae39d54744b0b39de4dfe89d03d4
 * author:	1159929061 (https://sketchfab.com/1159929061)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "hd_1floor_room5" (https://sketchfab.com/3d-models/hd-1floor-room5-39fd86b1eb9947468575f1949922305f) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "hd_1floor_room5" (https://sketchfab.com/3d-models/hd-1floor-room5-13b1ae39d54744b0b39de4dfe89d03d4) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
