@@ -1,0 +1,11 @@
+Model Information:
+* title:	VMC850B
+* source:	https://sketchfab.com/3d-models/vmc850b-872f72c5665a4e8d9df26382c20aa311
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VMC850B" (https://sketchfab.com/3d-models/vmc850b-872f72c5665a4e8d9df26382c20aa311) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

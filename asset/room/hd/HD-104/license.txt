@@ -1,0 +1,11 @@
+Model Information:
+* title:	HD-104
+* source:	https://sketchfab.com/3d-models/hd-104-e1546927f790484f95a7d37c5cec6fa1
+* author:	1159929061 (https://sketchfab.com/1159929061)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HD-104" (https://sketchfab.com/3d-models/hd-104-e1546927f790484f95a7d37c5cec6fa1) by 1159929061 (https://sketchfab.com/1159929061) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
